@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Yumei
+### First Name:  Lin
+### GitHub Username: yuuumei0
 
 ---
 #### General Workflow: 
